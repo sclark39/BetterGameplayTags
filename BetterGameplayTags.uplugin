@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BetterGameplayTags",
+	"Description": "Utility functions for working with Gameplay Tags",
+	"Category": "Other",
+	"CreatedBy": "Skyler Clark",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/sclark39/BetterGameplayTags",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BetterGameplayTags",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
